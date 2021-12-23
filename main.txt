@@ -1,3 +1,4 @@
 main commit
 making changes in main from firstbranch
 make change in main to later pull in firstbranch from remote
+edited this line before merging firstbranch i guess now merge conflict will occur
